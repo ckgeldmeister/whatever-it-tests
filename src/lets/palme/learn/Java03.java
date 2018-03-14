@@ -7,7 +7,7 @@ import javax.swing.*;
 public class Java03 {
 	
 	public static void main(String[] args){
-		JFrame frame = new JFrame("MoreCodeisAdd");
+		JFrame frame = new JFrame("MoreCodeisAddandRewriteAgain");
 		frame.add(new myComponent3("gggffff"));
 		frame.setSize(400, 400);
 		frame.setVisible(true);
